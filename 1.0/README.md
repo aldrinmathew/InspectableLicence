@@ -1,4 +1,4 @@
-# **AAF INSPECTABLE 1.0**
+# **AAF Inspectable License 1.0**
 
 ## Purpose of this License
 
