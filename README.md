@@ -1,6 +1,6 @@
 <div align="center">
 
-![AAF Inspectable License Logo](source/aaf-inspectable-logo.png)
+![AAF Inspectable License Logo](source/aaf-inspectable-word-logo.png)
 
 </div>
 
