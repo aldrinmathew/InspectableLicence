@@ -2,16 +2,17 @@
 
 ## Purpose of this License
 
-This license is crafted for such cases in which the integrity, authenticity or identity of the source must be preserved by locking or preventing all public contributions to the source, while the transparency of the services/products offered by the owner/author should still be valid. The public can inspect freely, they cannot make changes. The Source must be made available free-of-cost and the public can verify if the product is derived from the source or not.
+This license is crafted for such cases in which the integrity, authenticity or identity of the source must be preserved by locking or preventing all public contributions to the source, while the transparency of the services/products offered by the owner/author should still be valid. The public can inspect freely, they cannot make changes. The Source must be made available free-of-cost and the public can verify if the product is derived from the source or not. The product does not necessarily have to be provided free-of-cost.
 
 ## **How to License?**
-In order to validly license your Product under this license, you MUST do the following:
 
-Include the statement 
+**You SHOULD provide the Human Readable Summary of this License, *[available here](./LICENSE)* along with the Source/Source Code, to make this License valid for the product. The summary file accompanying the Source is usually named LICENSE, and we recommend using that name for clarity and consistency.**
+
+It is highly recommended that you include the statement 
 ```
 <PRODUCT NAME> is licensed under AAF INSPECTABLE 1.0 License on <EXPANDED DATE>. Copyright © <AUTHOR NAME> All rights reserved.
 ```
-in the product, with links to the Source and the License.
+in the product in an appropriate context, with links to the Source and the License.
 
 ``
 <PRODUCT NAME> - Name of the Product
@@ -19,20 +20,18 @@ or you can just insert "This Software/Application/Product..." (whichever applies
 ``
 
 ``
-<EXPANDED DATE> - The Expanded form of the Date on which you make the Source or Product available, whichever comes first.
+<EXPANDED DATE> - The Expanded form of the Date on which you make the Source or Product available, whichever comes first. Please use names for months to avoid ambiguity in formats and confusion.
 ``
 
 ``
 <AUTHOR NAME> - Your name. It could be the name of a person, a group of people, an organisation, an entity... The entity that is responsible for, and owns/maintains the source and the product.
 ``
 
-**You SHOULD also provide the Human Readable Summary of this License along with the Source/Source Code to make this License valid for the product. The summary file accompanying the Source is usually named LICENSE, and we recommend using that name for clarity and consistency.**
-
 ## **Terms & Conditions**
 
 - ***Disclaimer***: The source and the product derived/built from the source, is provided as is, without any warranty. The Author/Owner of the source and product does not guarantee that the source/product will work as intended. The applicability of the source/product may or may not depend on the use case or scenario.
-- ***Privileges***: You CAN freely inspect the Code/Source/Source Code, made available under this License. You are allowed to "build" (as in convert from Source to Product) the Source and verify that the Product offered by the Author is derived from the Source. If at any point, the built Source does not give a result identical to the Product (as in the services included in the product and not any Verification, Login, Credential, Authorization, API keys, Privacy related material included in the product), you can report it to the appropriate authorities by means of images/multimedia.
-- ***Restrictions***: You are NOT allowed to modify, alter, build upon, redesign, rebrand, redistribute or make any sort of changes to the Source. You are NOT allowed to distribute or redistribute, sell or make available, the Product and the result of the "build" of the Source.
+- ***Privileges***: You CAN freely inspect the Code/Source/Source Code, made available under this License. You are allowed to "build" (as in convert from Source to Product) the Source and verify that the Product offered by the Author is derived from the Source. If at any point, the built Source does not give a result identical to the Product (as in the services included in the product and not any Verification, Login, Credential, Authorization, API keys, Privacy related material included in the product), you can report it to the appropriate authorities by necessary means, without jeopardizing the licensing terms of this project.
+- ***Restrictions***: You are NOT allowed to modify, alter, build upon, redesign, rebrand, distribute, redistribute, sell or make available, or make any sort of changes to the Source and the Product.
 - ***Source Availability***: The Owner/Author has the obligation to provide the Source to the public free-of-cost, once the product is made available. The Author may make the Source available for inspection before the product is available to the public. However, making source available before the product is not necessary under the terms of this license. The Owner/Author is allowed to take any necessary actions to prevent the public from redistributing, reselling or rebranding the source, the product, or the "build result" of the source.
 - ***What is Source?*** This license clearly distinguishes the Source from the Product. The Source is that part, from which the Product is derived. If the process of building/creating the product includes references to external sources or code or content, those materials will not be part of the Source and those parts will individually hold licenses as mentioned by the owners and authors of the respective parts (This usually refers to Libraries, Extensions, Plugins... that is used to expand the functinality of a software/product). If the source/product has multiple authors/owners, then all authors/owners must consent to make the Source and the Product available under this license.
 - ***Product Price***: This license can be used for products that are sold, or are offered in return of profit. The product DOES NOT have to be provided free of cost to the user.
