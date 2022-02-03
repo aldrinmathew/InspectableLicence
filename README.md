@@ -15,7 +15,7 @@ The following is the summary of the latest version of this licence, that you MAY
 ```
 <PROJECT> : Copyright <LICENSING YEAR> - <CURRENT YEAR> : <AUTHOR(S)>
 
-AAF INSPECTABLE LICENSE - 1.0
+AAF INSPECTABLE LICENCE - 1.0
 
 This project is licensed under the AAF Inspectable Licence 1.0. 
 You are allowed to inspect the source of this project(s) free of 
