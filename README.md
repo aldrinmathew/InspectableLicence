@@ -1,23 +1,23 @@
 <div align="center">
 
-![AAF Inspectable License Logo](source/aaf-inspectable-word-logo.png)
+![AAF Inspectable Licence Logo](source/aaf-inspectable-word-logo.png)
 
 </div>
 
-The current version of AAF Inspectable License is 1.0
+The current version of AAF Inspectable Licence is 1.0
 
 You can freely report any issues and ask for any additions or clarifications.
 
 **Make sure that you include [this file](./1.0/LICENSE) in your project, preferably with the same filename. It is highly recommended to include the file in the root folder of your project, so that it is easy for the public to access.**
 
-The following is the summary of the latest version of this license, that you MAY include in the beginning of your source files. It is optional, but recommended for large projects.
+The following is the summary of the latest version of this licence, that you MAY include in the beginning of your source files. It is optional, but recommended for large projects.
 
 ```
 <PROJECT> : Copyright <LICENSING YEAR> - <CURRENT YEAR> : <AUTHOR(S)>
 
 AAF INSPECTABLE LICENSE - 1.0
 
-This project is licensed under the AAF Inspectable License 1.0. 
+This project is licensed under the AAF Inspectable Licence 1.0. 
 You are allowed to inspect the source of this project(s) free of 
 cost, and also to verify the authenticity of the product.
 
@@ -28,15 +28,15 @@ liable for any harms, errors or troubles caused by using the
 source or the product, unless implied by law. By using this 
 project, or part of it, you are acknowledging the complete terms 
 and conditions of licensing of this project as specified in AAF 
-Inspectable License 1.0 available at this URL: 
+Inspectable Licence 1.0 available at this URL: 
 
-https://github.com/aldrinsartfactory/InspectableLicense/
+https://github.com/aldrinsartfactory/InspectableLicence/
 
 This project may contain parts that are not licensed under the 
-same license. If so, the licenses of those parts should be 
+same licence. If so, the licences of those parts should be 
 appropriately mentioned in those parts of the project. The 
 Author MAY provide a notice about the parts of the project that 
-are not licensed under the same license in a publicly visible 
+are not licensed under the same licence in a publicly visible 
 manner.
 
 You are NOT ALLOWED to sell, or distribute THIS project, it's 
@@ -56,5 +56,5 @@ or misleading or gives out false information.
 
 ## **Shared Source**
 
-The traditional definition of open source is flawed, as it is often meant to be "Free and Open Source" instead of just "Open Source". And because of that, this license is not compatible with the definition of Open Source by the Open Source Initiative (OSI). Instead this license follows the true meaning of open source, allowing the source to be inspected and verified by the 
-public free of cost. However, advertising that this license is an Open Source license can lead to ambiguity and confusion. Hence we choose to identify this license as belonging to the "Shared Source" family of licenses.
+The traditional definition of open source is flawed, as it is often meant to be "Free and Open Source" instead of just "Open Source". And because of that, this licence is not compatible with the definition of Open Source by the Open Source Initiative (OSI). Instead this licence follows the true meaning of open source, allowing the source to be inspected and verified by the 
+public free of cost. However, advertising that this licence is an Open Source licence can lead to ambiguity and confusion. Hence we choose to identify this licence as belonging to the "Shared Source" family of licences.
